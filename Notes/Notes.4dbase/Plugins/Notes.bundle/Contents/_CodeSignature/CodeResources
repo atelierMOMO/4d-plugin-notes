@@ -400,36 +400,14 @@
 			7t2nF9u/4W05GOd8UQ7QAt/PFge16k3ydWYX/6ElmJk=
 			</data>
 		</dict>
-		<key>Windows/Notes.4DX</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8WH79l2tgViHfCYSUBu+HCIQ5Es=
-			</data>
-			<key>hash2</key>
-			<data>
-			rp5mwPoToTOMBrO5g9ATVRBDkkR1XpJE6MF06FX5mo0=
-			</data>
-		</dict>
-		<key>Windows64/Notes.4DX</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			r1aAHLsl1HqPOxOjnnlVMBT8weQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			D81BlAXC8IYBjKsGDu0nx8Zm3OxlDG6/r2pFvj/FY7A=
-			</data>
-		</dict>
 		<key>manifest.json</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			l/sscJBUBMPRErccINmvT4vKzis=
+			NVhizoFCWq5PVKFmeyVf9vt/sBs=
 			</data>
 			<key>requirement</key>
-			<string>identifier manifest and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Y69CWUC25B</string>
+			<string>identifier manifest and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: shirokumakun@me.com (922KU5UM3K)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 	</dict>
 	<key>rules</key>
